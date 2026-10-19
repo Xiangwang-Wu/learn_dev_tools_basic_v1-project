@@ -39,3 +39,5 @@ description: "整门课的全部 Task 都按各自 TICKET 逐项做完, 能不�
 - 说得清 coding agent 和聊天机器人的本质区别: 能干活, 不是能聊天
 - 能跑通一次完整工作流: 打开项目, 复制路径, 让 coding agent 改文件, 用 GitHub Desktop 检查或撤销改动
 - 遇到教程没教的细节, 知道带着具体场景去问 AI, 而不是死磕文档
+
+这是claude code帮我加的测试句子
